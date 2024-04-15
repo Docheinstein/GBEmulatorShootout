@@ -35,8 +35,9 @@ from emulators.binjgb import Binjgb
 from emulators.pyboy import PyBoy
 from emulators.ares import Ares
 from emulators.emmy import Emmy
-from emulators.gameroy import GameRoy
 from emulators.docboy import DocBoy
+
+from emulators.gameroy import GameRoy
 from util import *
 from test import *
 
